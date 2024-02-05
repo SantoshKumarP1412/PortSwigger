@@ -12,5 +12,10 @@ Modify the email parameter the ||ping+-c+10+127.0.0.1||
 
 <img width="1222" alt="image" src="https://github.com/SantoshKumarP1412/PortSwigger/assets/140537888/28ade7f7-a81d-4a10-b1b2-608bc56038ee">
 
+Modified with sleep also
+
+<img width="1225" alt="image" src="https://github.com/SantoshKumarP1412/PortSwigger/assets/140537888/03d5c842-1b61-4d34-be92-fec2d0bd51fb">
+
+Result
 
 <img width="1439" alt="image" src="https://github.com/SantoshKumarP1412/PortSwigger/assets/140537888/a57e4338-626e-41eb-b267-f8426cdf3740">
