@@ -13,9 +13,9 @@ To bypass this we need to give nested traversal sequences like ....//etc/passwd 
 First we give this i/p - ....//....//etc/passwd
 
 We get this response containing 400 Bad Request.
-<img width="1439" alt="image" src="https://github.com/SantoshKumarP1412/PortSwigger/assets/140537888/5ef2c9f2-fbae-43ff-9a43-349200637a8a">
 Next when we try this payload - ....//....//....//etc/passwd , we get the contents of the file.
 
+<img width="1437" alt="image" src="https://github.com/SantoshKumarP1412/PortSwigger/assets/140537888/0108a60a-6043-41c7-bb17-241fb749e462">
 
 
 ## Result:
