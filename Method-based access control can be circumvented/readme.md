@@ -45,3 +45,8 @@ Since this lab is based on Method-Based-Access control bypass, we can try to cha
 
 Now it changes to a GET request,
 
+Solved
+
+<img width="1426" alt="image" src="https://github.com/SantoshKumarP1412/PortSwigger/assets/140537888/f8b302cd-9a1b-4333-a9d7-e57dee70b280">
+
+
