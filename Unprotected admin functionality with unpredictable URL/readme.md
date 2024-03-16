@@ -1,4 +1,4 @@
-<img width="1426" alt="image" src="https://github.com/SantoshKumarP1412/PortSwigger/assets/140537888/3c47c85e-1e8e-4039-82c3-41a52cac6748">## Lab Description:
+## Lab Description:
 
 <img width="853" alt="image" src="https://github.com/SantoshKumarP1412/PortSwigger/assets/140537888/e29d706a-429c-4a99-8dfa-2bf0556434af">
 
